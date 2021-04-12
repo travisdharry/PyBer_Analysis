@@ -33,6 +33,7 @@ The trend of weekly fares grouped by city type shows only minor fluctuations ove
 
 
 ## Summary 
-In order to even out the disparities between business in the different city types, we offer three recommendations:
-First, reduce the number of urban drivers. There are more drivers than there are rides being given, and the idle drivers are negatively impacting average fares per driver. Second, increase the number of drivers in suburban or rural areas. These additional drivers could be better utilized in locations where the average fare per ride is higher. There, they may be able to earn the company more money.
+In order to even out the disparities between business in the different city types, we offer three recommendations: <br>
+First, reduce the number of urban drivers. There are more drivers than there are rides being given, and the idle drivers are negatively impacting average fares per driver. <br>
+Second, increase the number of drivers in suburban or rural areas. These additional drivers could be better utilized in locations where the average fare per ride is higher. There, they may be able to earn the company more money. <br>
 Third, an increase in fares in urban areas would raise the average fare per ride to a level that is more in line with that of rural and suburban areas. As long as this rate increase does not drive down demand it will earn the company more money and increase average fares per driver.
