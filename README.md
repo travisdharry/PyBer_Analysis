@@ -28,7 +28,7 @@ The average fare per ride in urban areas was lower than in suburban areas, which
 The average fares per driver were significantly lower in urban areas, only $16.57 compared to the $55.49 average of their rural counterparts. This is due to a combination of factors. First, the average fare per ride is lower in urban areas, perhaps because shorter distances are traveled. Second, there are a disproportionate number of drivers in urban areas. In fact, there are more drivers than there are rides given.
 
 ### Weekly Fares Over Time
-The trend of weekly fares grouped by city type shows only minor fluctuations over time. Urban areas consistently bring in the highest total fares, while rural areas consistently bring in the lowest total fares. This indicates that time of year is not as much of a factor in total fares as location.
+The trend of weekly fares grouped by city type shows only minor fluctuations over time. Urban areas consistently bring in the highest total fares, while rural areas consistently bring in the lowest total fares. This indicates that time of year is not as much of a factor in total fares as location. /n
 ![Weekly Fares by City Type](Analysis/weeklyFares_by_cityType.png)
 
 
